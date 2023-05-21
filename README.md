@@ -1,4 +1,4 @@
-# ReactAndGo
+# Price Dropping Notifications
 
 The ReactAndGo project is used to compare a single page application frontend based on React and a Rest backend based on Go, to Angular frontends and Spring Boot/Java backends. 
 
